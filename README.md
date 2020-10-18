@@ -1,5 +1,7 @@
-# Competetive-Coding
-Problems from LeetCode HackerRank etc
+<h1 align="center">
+	🚀Competitive Coding👨‍💻
+</h1> Problems from LeetCode HackerRank etc
+## #30DaysofCode
 
 <!-- BLOG-POST-LIST:START -->
 - [Reverse a Linked List](https://matrixread.com/reverse-a-linked-list/)
