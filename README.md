@@ -2,6 +2,13 @@
 Problems from LeetCode HackerRank etc
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse a Linked List](https://matrixread.com/reverse-a-linked-list/)
+- [Fibonacci Series – Iterative vs Recursive](https://matrixread.com/fibonacci-series-iterative-vs-recursive/)
+- [Maximum Occurring Character in a String](https://matrixread.com/maximum-occurring-character-in-a-string/)
+- [Sum of Numbers in a String](https://matrixread.com/sum-of-numbers-in-a-string/)
+- [Linear Search Algorithm](https://matrixread.com/linear-search-algorithm/)
+- [Bubble Sort Algorithm](https://matrixread.com/bubble-sort-algorithm/)
+- [Template Functions in C++](https://matrixread.com/template-functions-in-c/)
 - [Two Sum LeetCode Optimized](https://matrixread.com/two-sum-leetcode-optimized/)
 - [Squares of a Sorted Array LeetCode O(N)](https://matrixread.com/squares-of-a-sorted-array-leetcode-on/)
 - [Single Number in Array LeetCode C++](https://matrixread.com/single-number-in-array-leetcode-c/)
