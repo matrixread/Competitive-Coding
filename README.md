@@ -4,6 +4,13 @@
 ## #30DaysofCode
 
 <!-- BLOG-POST-LIST:START -->
+- [Separate 0s and 1s – O(N) Single Iteration](https://matrixread.com/separate-0s-and-1s-on-single-iteration/)
+- [Perform Set Operations on Arrays](https://matrixread.com/perform-set-operations-on-arrays/)
+- [Remove Duplicates from a Sorted Linked List](https://matrixread.com/remove-duplicates-from-a-sorted-linked-list/)
+- [Count the Duplicates of Array O(N)](https://matrixread.com/count-the-duplicates-of-array-on/)
+- [Anagram in Strings](https://matrixread.com/anagram-in-strings/)
+- [Target Sum – Single Iteration O(N)](https://matrixread.com/target-sum-single-iteration/)
+- [Binary Search Algorithm](https://matrixread.com/binary-search-algorithm/)
 - [Reverse a Linked List](https://matrixread.com/reverse-a-linked-list/)
 - [Fibonacci Series – Iterative vs Recursive](https://matrixread.com/fibonacci-series-iterative-vs-recursive/)
 - [Maximum Occurring Character in a String](https://matrixread.com/maximum-occurring-character-in-a-string/)
