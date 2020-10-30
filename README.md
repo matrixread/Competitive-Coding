@@ -1,6 +1,7 @@
 <h1 align="center">
 	🚀Competitive Coding👨‍💻
-</h1> Problems from LeetCode HackerRank etc
+</h1>
+
 ## #30DaysofCode
 
 <!-- BLOG-POST-LIST:START -->
