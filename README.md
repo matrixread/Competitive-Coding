@@ -5,6 +5,13 @@
 ## #30DaysofCode
 
 <!-- BLOG-POST-LIST:START -->
+- [#30DaysofCode](https://matrixread.com/30daysofcode/)
+- [Direct & Indirect Recursion](https://matrixread.com/direct-indirect-recursion/)
+- [Even Odd Separation O(N) Single Iteration](https://matrixread.com/even-odd-separation-on-single-iteration/)
+- [Tree Traversals – Preorder, Inorder, Postorder](https://matrixread.com/tree-traversals-preorder-inorder-postorder/)
+- [Program to Evaluate Postfix Expression – LeetCode](https://matrixread.com/program-to-evaluate-postfix-expression-leetcode/)
+- [Balanced Parenthesis Program](https://matrixread.com/balanced-parenthesis-program/)
+- [How the bits/stdc++ .h works in C++](https://matrixread.com/how-the-bits-stdc-h-works-in-c/)
 - [Separate 0s and 1s – O(N) Single Iteration](https://matrixread.com/separate-0s-and-1s-on-single-iteration/)
 - [Perform Set Operations on Arrays](https://matrixread.com/perform-set-operations-on-arrays/)
 - [Remove Duplicates from a Sorted Linked List](https://matrixread.com/remove-duplicates-from-a-sorted-linked-list/)
@@ -22,11 +29,4 @@
 - [Two Sum LeetCode Optimized](https://matrixread.com/two-sum-leetcode-optimized/)
 - [Squares of a Sorted Array LeetCode O(N)](https://matrixread.com/squares-of-a-sorted-array-leetcode-on/)
 - [Single Number in Array LeetCode C++](https://matrixread.com/single-number-in-array-leetcode-c/)
-- [Program to Validate Username](https://matrixread.com/program-to-validate-username/)
-- [Find Missing Number in Array LeetCode](https://matrixread.com/find-missing-number-in-array-leetcode/)
-- [Remove Duplicates from an Unsorted Array](https://matrixread.com/remove-duplicates-from-an-unsorted-array/)
-- [Linked List Code in C++](https://matrixread.com/linked-list-code-in-c/)
-- [Queue program in C++ using Array and STL](https://matrixread.com/queue-program-in-c-using-array-and-stl/)
-- [Contains Duplicate LeetCode C++](https://matrixread.com/contains-duplicate-leetcode-c/)
-- [Stack Program in C++ using Array and STL](https://matrixread.com/stack-program-in-c-using-array-and-stl/)
 <!-- BLOG-POST-LIST:END -->
