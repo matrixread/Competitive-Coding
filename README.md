@@ -5,6 +5,8 @@
 ## #30DaysofCode
 
 <!-- BLOG-POST-LIST:START -->
+- [Transpose a Matrix](https://matrixread.com/transpose-a-matrix/)
+- [Array of Structures – API Problem](https://matrixread.com/array-of-structures-api-problem/)
 - [#30DaysofCode](https://matrixread.com/30daysofcode/)
 - [Direct & Indirect Recursion](https://matrixread.com/direct-indirect-recursion/)
 - [Even Odd Separation O(N) Single Iteration](https://matrixread.com/even-odd-separation-on-single-iteration/)
@@ -27,6 +29,4 @@
 - [Bubble Sort Algorithm](https://matrixread.com/bubble-sort-algorithm/)
 - [Template Functions in C++](https://matrixread.com/template-functions-in-c/)
 - [Two Sum LeetCode Optimized](https://matrixread.com/two-sum-leetcode-optimized/)
-- [Squares of a Sorted Array LeetCode O(N)](https://matrixread.com/squares-of-a-sorted-array-leetcode-on/)
-- [Single Number in Array LeetCode C++](https://matrixread.com/single-number-in-array-leetcode-c/)
 <!-- BLOG-POST-LIST:END -->
