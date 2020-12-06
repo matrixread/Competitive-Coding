@@ -5,6 +5,8 @@
 ## #30DaysofCode
 
 <!-- BLOG-POST-LIST:START -->
+- [Majority Element in an Array – LeetCode](https://matrixread.com/majority-element-in-an-array/)
+- [Sorting Algorithms in C++](https://matrixread.com/sorting-algorithmsin-in-c/)
 - [Transpose a Matrix](https://matrixread.com/transpose-a-matrix/)
 - [Array of Structures – API Problem](https://matrixread.com/array-of-structures-api-problem/)
 - [#30DaysofCode](https://matrixread.com/30daysofcode/)
@@ -27,6 +29,4 @@
 - [Sum of Numbers in a String](https://matrixread.com/sum-of-numbers-in-a-string/)
 - [Linear Search Algorithm](https://matrixread.com/linear-search-algorithm/)
 - [Bubble Sort Algorithm](https://matrixread.com/bubble-sort-algorithm/)
-- [Template Functions in C++](https://matrixread.com/template-functions-in-c/)
-- [Two Sum LeetCode Optimized](https://matrixread.com/two-sum-leetcode-optimized/)
 <!-- BLOG-POST-LIST:END -->
