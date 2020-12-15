@@ -1,6 +1,7 @@
 # 🚀Competitive Coding👨‍💻
 
 ### #30DaysofCode
+***
 
 <!-- BLOG-POST-LIST:START -->
 - [Majority Element in an Array – LeetCode](https://matrixread.com/majority-element-in-an-array/)
