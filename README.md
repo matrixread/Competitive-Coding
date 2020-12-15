@@ -1,6 +1,6 @@
 # 🚀Competitive Coding👨‍💻
 
-### [#30DaysofCode](https://github.com/abhiramready/Code-LogBook/blob/master/Markdown/30DaysOfCode.md)
+### [🎯 #30DaysofCode](https://github.com/abhiramready/Code-LogBook/blob/master/Markdown/30DaysOfCode.md)
 ***
 
 <!-- BLOG-POST-LIST:START -->
