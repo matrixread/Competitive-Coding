@@ -1,7 +1,6 @@
 # 🚀Competitive Coding👨‍💻
 
 ### [🎯 #30DaysofCode](https://github.com/abhiramready/Code-LogBook/blob/master/Markdown/30DaysOfCode.md)
-***
 
 <!-- BLOG-POST-LIST:START -->
 - [Majority Element in an Array – LeetCode](https://matrixread.com/majority-element-in-an-array/)
@@ -29,5 +28,3 @@
 - [Linear Search Algorithm](https://matrixread.com/linear-search-algorithm/)
 - [Bubble Sort Algorithm](https://matrixread.com/bubble-sort-algorithm/)
 <!-- BLOG-POST-LIST:END -->
-
-***
